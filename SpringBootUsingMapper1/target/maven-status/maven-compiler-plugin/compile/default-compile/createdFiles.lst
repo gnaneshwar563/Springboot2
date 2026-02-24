@@ -1,0 +1,14 @@
+com\nt\model\Book.class
+com\nt\mapper\BookMapper.class
+com\nt\constants\bookconstants.class
+com\nt\SpringBootUsingMapperApplication.class
+com\nt\service\BookServiceImpl.class
+com\nt\service\IBookService.class
+com\nt\exception\BookAlreadyExistsException.class
+com\nt\controller\BookController.class
+com\nt\exception\BookNotFoundException.class
+com\nt\repository\IBookRepository.class
+com\nt\exception\GlobalExceptionHandler.class
+com\nt\AppConfig.class
+com\nt\dto\BookResponse.class
+com\nt\dto\BookRequest.class
